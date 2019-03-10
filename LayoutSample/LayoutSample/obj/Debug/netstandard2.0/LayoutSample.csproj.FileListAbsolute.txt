@@ -1,0 +1,15 @@
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\bin\Debug\netstandard2.0\LayoutSample.deps.json
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\bin\Debug\netstandard2.0\LayoutSample.dll
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\bin\Debug\netstandard2.0\LayoutSample.pdb
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\LayoutSample.csproj.CoreCompileInputs.cache
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\LayoutSample.AssemblyInfoInputs.cache
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\LayoutSample.AssemblyInfo.cs
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\LayoutSample.dll
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\LayoutSample.pdb
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\LayoutSample.csprojAssemblyReference.cache
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\obj\Debug\netstandard2.0\FlightList.xaml.g.cs
+C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample\bin\Debug\netstandard2.0\Font\BRITANIC.TTF
