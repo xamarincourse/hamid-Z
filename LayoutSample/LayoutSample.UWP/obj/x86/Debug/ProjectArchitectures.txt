@@ -1,1 +1,0 @@
-C:\Users\971042\source\repos\LayoutSample\LayoutSample\LayoutSample.UWP\LayoutSample.UWP.csproj;x86
