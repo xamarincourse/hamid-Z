@@ -17,7 +17,7 @@
                 <Setter Property="BackgroundColor" Value="White" />
                 <Setter Property="HorizontalOptions" Value="Start"/>
                 <Setter Property="VerticalOptions" Value="Center"/>
-                <Setter Property="FontSize" Value="14" />
+                <Setter Property="FontSize" Value="13" />
                 <Setter Property="Font" Value="Britannic Bold.ttf" />
             </Style>
             <Style x:Key="MiddelLine2" TargetType="Label">
